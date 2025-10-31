@@ -59,3 +59,7 @@ data2 = data.copy()
 # print(data)
 data.clear()
 print(data)
+
+
+# Simple Calculator — Perform basic arithmetic operations (+, -, *, /)
+# Determine whether a given number is prime.
